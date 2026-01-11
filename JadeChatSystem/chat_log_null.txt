@@ -1,0 +1,14 @@
+Sun Jan 11 09:33:04 EET 2026 | [SENT] Me -> agent2: asd
+Sun Jan 11 09:33:04 EET 2026 | [RECEIVED] agent3: asd
+Sun Jan 11 09:33:07 EET 2026 | [SENT] Me -> agent2: asd
+Sun Jan 11 09:33:07 EET 2026 | [RECEIVED] agent1: asd
+Sun Jan 11 09:33:11 EET 2026 | [RECEIVED] agent2: asd
+Sun Jan 11 09:33:11 EET 2026 | [SENT] Me -> agent1: asd
+Sun Jan 11 09:38:03 EET 2026 | [RECEIVED] agent2: [SENT] Me -> agent2: asd [RECEIVED] agent3: asd [SENT] Me -> agent2: asd [RECEIVED] agent1: asd [RECEIVED] agent2: asd [SENT] Me -> agent1: asd ------------------------------------------
+Sun Jan 11 09:38:03 EET 2026 | [SENT] Me -> agent3: [SENT] Me -> agent2: asd [RECEIVED] agent3: asd [SENT] Me -> agent2: asd [RECEIVED] agent1: asd [RECEIVED] agent2: asd [SENT] Me -> agent1: asd ------------------------------------------
+Sun Jan 11 09:38:16 EET 2026 | [SENT] Me -> agent2: a
+Sun Jan 11 09:38:16 EET 2026 | [RECEIVED] agent1: a
+Sun Jan 11 09:38:18 EET 2026 | [SENT] Me -> agent3: a
+Sun Jan 11 09:38:18 EET 2026 | [RECEIVED] agent2: a
+Sun Jan 11 09:38:19 EET 2026 | [SENT] Me -> agent1: a
+Sun Jan 11 09:38:19 EET 2026 | [RECEIVED] agent3: a

@@ -1,0 +1,14 @@
+Sun Jan 11 09:30:46 EET 2026 | agent2: haha
+Sun Jan 11 09:30:46 EET 2026 | Me -> agent1: haha
+Sun Jan 11 09:30:48 EET 2026 | Me -> agent2: helo
+Sun Jan 11 09:30:48 EET 2026 | agent1: helo
+Sun Jan 11 09:30:53 EET 2026 | Me -> agent1: how are you
+Sun Jan 11 09:30:53 EET 2026 | agent2: how are you
+Sun Jan 11 09:30:57 EET 2026 | Me -> agent2: HELO AGAIN
+Sun Jan 11 09:30:57 EET 2026 | agent3: HELO AGAIN
+Sun Jan 11 09:31:04 EET 2026 | Me -> agent1: this just awful
+Sun Jan 11 09:31:04 EET 2026 | agent2: this just awful
+Sun Jan 11 09:31:04 EET 2026 | Me -> agent1: af
+Sun Jan 11 09:31:04 EET 2026 | agent2: af
+Sun Jan 11 09:31:06 EET 2026 | Me -> agent1: ngl
+Sun Jan 11 09:31:06 EET 2026 | agent2: ngl
